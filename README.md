@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
@@ -49,7 +49,7 @@ Ensure you have Python 3.7 or higher installed on your system.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/excel-data-matcher.git
+git clone https://github.com/ranjeet-snu/ExcelMerger.git
 cd excel-data-matcher
 ```
 
